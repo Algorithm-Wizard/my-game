@@ -1,0 +1,9 @@
+[package]
+name = "my-game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4"
+rand = "0.10.3"
+rand_pcg = "0.10.2"
